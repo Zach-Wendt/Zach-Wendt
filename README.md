@@ -7,4 +7,4 @@ Navy Reserve cyber warfare technician. Previously a Marine and an Amazon S3 engi
 - Building: agent tooling (MCP servers, agent-driven workflows)
 - Writing: [zach-wendt.github.io/writing](https://zach-wendt.github.io/writing/)
 
-[Website](https://zach-wendt.github.io) | [LinkedIn](https://www.linkedin.com/in/zacharywendt-maldonado) | [Hugging Face](https://huggingface.co/zach-wendt) | [Bluesky](https://bsky.app/profile/zach-wendt.bsky.social) | [ORCID](https://orcid.org/0009-0008-3413-0985)
+[Website](https://zach-wendt.github.io) | [LinkedIn](https://www.linkedin.com/in/zacharywendt-maldonado) | [Hugging Face](https://huggingface.co/zach-wendt) | [Bluesky](https://bsky.app/profile/zach-wendt.github.io) | [ORCID](https://orcid.org/0009-0008-3413-0985)
