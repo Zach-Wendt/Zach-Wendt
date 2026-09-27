@@ -1,3 +1,5 @@
+[![A trainer and three partner monsters walking along a fence](banner.svg)](https://zach-wendt.github.io)
+
 ### Zach Wendt-Maldonado
 
 PhD student in computer science working on **multi-agent systems and algorithmic game theory**, mostly applied to security.
