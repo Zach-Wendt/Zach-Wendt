@@ -14,4 +14,5 @@ Navy Reservist. Previously a Marine and an Amazon S3 engineer.
 - First post coming soon.
 <!-- writing:end -->
 
-[Website](https://zach-wendt.github.io) | [LinkedIn](https://www.linkedin.com/in/zacharywendt-maldonado) | [Hugging Face](https://huggingface.co/zach-wendt) | [Bluesky](https://bsky.app/profile/zach-wendt.github.io) | [ORCID](https://orcid.org/0009-0008-3413-0985)
+[Website](https://zach-wendt.github.io) | [LinkedIn](https://www.linkedin.com/in/zacharywendt-maldonado) | [Hugging Face](https://huggingface.co/zach-wendt) | [Bluesky](https://bsky.app/profile/zach-wendt.github.io) | [ORCID](https://orcid.org/0009-0008-3413-0985) | [X](https://x.com/zwendtmaldonado) 
+
