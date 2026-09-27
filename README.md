@@ -3,7 +3,7 @@
 ### Zach Wendt-Maldonado
 
 PhD student in computer science working on **multi-agent systems and algorithmic game theory**, mostly applied to security.
-Navy Reserve cyber warfare technician. Previously a Marine and an Amazon S3 engineer.
+Navy Reservist. Previously a Marine and an Amazon S3 engineer.
 
 - Research: security games, multi-agent RL for cyber defense, strategic behavior of LLM agents
 - Building: agent tooling (MCP servers, agent-driven workflows)
